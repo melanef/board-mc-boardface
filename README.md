@@ -65,3 +65,13 @@ And to get it running:
 ```
 npm run production
 ```
+
+## Running
+
+To run with Laravel's development HTTP server, use the command below:
+
+```
+php artisan serve
+```
+
+This way, you'll be able to test and execute the application under the local network address (127.0.0.1) running on port 8000. 

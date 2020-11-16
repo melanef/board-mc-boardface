@@ -21,7 +21,6 @@ mix.webpackConfig({
 mix.disableNotifications();
 
 mix.ts('resources/js/app.ts', 'public/js/app.js')
-  .sass('resources/sass/app.scss', 'public/css')
   .sourceMaps()
 ;
 
