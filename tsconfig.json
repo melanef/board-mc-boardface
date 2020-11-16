@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "ES6",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "strict": true,
+    "experimentalDecorators": true,
+    "baseUrl": "./resources/js/",
+    "allowSyntheticDefaultImports": true,
+    "lib": [
+      "ES5",
+      "ES2015.Promise"
+    ]
+  }
+}
