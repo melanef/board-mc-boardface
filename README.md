@@ -2,13 +2,13 @@
 
 A simple message board build using Laravel, Vue.js and TypeScript.
 
-##Requirements
+## Requirements
 - PHP 7.2
 - MySQL 5.7
 - Node.js 14.15
 - NPM 6.14
 
-##Dependencies
+## Dependencies
 - Laravel 7.29
 - Laravel Mix 5.0
 - TypeScript 4.0
@@ -17,7 +17,7 @@ A simple message board build using Laravel, Vue.js and TypeScript.
 - Vue Class Components 7.2
 - Vue Property Decorators 9.0
 
-##Instalation
+## Instalation
 
 After checking out this git repository, install the PHP dependencies:
 
